@@ -1,0 +1,9 @@
+Policy,Phase,Hits,Page Faults,Hit Ratio
+FIFO,Before Shift,212,288,0.424
+FIFO,After Shift,181,319,0.362
+LRU,Before Shift,223,277,0.446
+LRU,After Shift,196,304,0.392
+Optimal,Before Shift,343,157,0.686
+Optimal,After Shift,306,194,0.612
+Learned,Before Shift,163,337,0.326
+Learned,After Shift,196,304,0.392
